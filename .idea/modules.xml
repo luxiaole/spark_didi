@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sparkCore/sparkCore.iml" filepath="$PROJECT_DIR$/sparkCore/sparkCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sparkSql/sparkSql.iml" filepath="$PROJECT_DIR$/sparkSql/sparkSql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark_didi.iml" filepath="$PROJECT_DIR$/spark_didi.iml" />
+    </modules>
+  </component>
+</project>
