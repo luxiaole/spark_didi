@@ -1,5 +1,6 @@
 package com.didi
 
+import org.apache.spark.sql.SparkSession
 import org.apache.spark.{SparkConf, SparkContext}
 import org.slf4j.LoggerFactory
 
@@ -32,8 +33,8 @@ object TestSparkSql {
 
     spark.sql("SELECT * FROM persons where age > 21").show()
 
-    spark.stop()
+    spark.stop()*/
   }
-*/
+
 
 }

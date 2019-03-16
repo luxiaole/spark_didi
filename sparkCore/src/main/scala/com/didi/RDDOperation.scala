@@ -15,6 +15,7 @@ object RDDOperation {
     val sc = new SparkContext(conf)
 
 
+
     //RDD的创建方式大概可以分为三种：
     //（1）、从集合中创建RDD；
     //parallelize方法创建
